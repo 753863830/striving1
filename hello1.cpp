@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-printf("hello,gdfus!<-------¡ö----¡¶¡¶");
+printf("hello,gdfus!<-------Â¡Ã¶----Â¡Â¶Â¡Â¶");
 }
 
