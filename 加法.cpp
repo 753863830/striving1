@@ -2,12 +2,12 @@
 using namespace std;
 int main(){
 	int a,b,c ;
-printf("µÚÒ»¸öÊıÊÇ");
+printf("ç¬¬ä¸€ä¸ªæ•°æ˜¯");
 cin>>a;
-printf("µÚ¶ş¸öÊıÊÇ");
+printf("ç¬¬äºŒä¸ªæ•°æ˜¯");
 cin>>b;
 c=a+b;
-cout<<"Á½ÊıÖ®ºÍÎª"<<c;
+cout<<"ä¸¤æ•°ä¹‹å’Œä¸º"<<c;
 return 0;
 }
 
